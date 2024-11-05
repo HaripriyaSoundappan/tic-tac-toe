@@ -6,7 +6,6 @@
 [Tic Tac Toe](https://catherineisonline.github.io/tic-tac-toe/) game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
 
 
-
 ## Game rules
 
 1. The game is played on a grid that is 3 squares by 3 squares
